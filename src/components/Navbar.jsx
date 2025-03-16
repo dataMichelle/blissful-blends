@@ -1,7 +1,7 @@
 Navbar.jsx;
 import React from "react";
 import { FaFacebookF, FaTwitter, FaInstagram } from "react-icons/fa";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 
 function Navbar() {
   return (
